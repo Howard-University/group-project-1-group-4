@@ -4,7 +4,7 @@
 
 ### Overview
 
-The Movies dataset is a comprehensive collection of movie-related information, including key attributes like movie titles, ratings, votes, budgets, and revenues. This dataset allows us to analyze various aspects of films, such as audience reception and financial performance. For this analysis, we focused on the relationship between budget and popularity to understand how production investment influences audience appeal.
+The Movies dataset is a collection of movie-related information, including key attributes like movie titles, ratings, votes, budgets, and revenues. This dataset allows us to analyze various aspects of films, such as audience reception and financial performance. For this analysis, we focused on the relationship between budget and popularity to understand how production investment influences audience appeal.
 
 ### Data Manipulation
 
